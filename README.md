@@ -1,4 +1,8 @@
 # This is a natural language processing course-based project. The project is to designed an RNN-based encoder and decoder with self-attention mechanism to translate Chinese/Vietnamese to English
+## Yu Xiong
+## Zhiming Guo
+## Nan Su
+## Yueqiu Sun
 
 <pre>
  <b>ch2en_gru.ipynb:</b> Includes GRU encoder and GRU-based Luong attention/no attention model for Chinese to English translation.
